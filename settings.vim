@@ -5,4 +5,10 @@ set expandtab       " tabs are space
 set autoindent
 set copyindent      " copy indent from the previous line
 
-let g:netrw_banner = 0 " disable explore banner
+""""""""""""
+" Explorer "
+""""""""""""
+let g:netrw_banner = 0
+let g:netrw_browse_split = 4
+let g:netrw_winsize = 25
+let g:netrw_liststyle = 3
