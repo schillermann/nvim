@@ -1,0 +1,2 @@
+autocmd VimEnter *
+    \ Vexplore
